@@ -1,0 +1,3 @@
+bakal berisi fe dan be
+fe guna react
+be guna next js
